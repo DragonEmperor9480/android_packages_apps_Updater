@@ -33,7 +33,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.crdroid.updater"
+        applicationId = "com.matrixx.updater"
         minSdk = 30
         targetSdk = 33
         versionCode = 1
